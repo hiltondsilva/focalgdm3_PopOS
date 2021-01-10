@@ -1,6 +1,6 @@
 # Pop!_OS_loginwallpaper
 
-Original work by https://github.com/PRATAP-KUMAR/focalgdm3#readme
+[Original Author](https://github.com/PRATAP-KUMAR/focalgdm3#readme)
 
 sudo ./focalgdm3 --set
 
