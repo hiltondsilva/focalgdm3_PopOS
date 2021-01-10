@@ -6,7 +6,7 @@
 ```
 sudo ./focalgdm3 --set
 select "1" for image
-/usr/share/loginbackgrounds/1.jpg
+/usr/share/backgrounds/1.jpg
 enter and reboot.
 ```
 
