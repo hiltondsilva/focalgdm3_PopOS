@@ -1,4 +1,4 @@
-# Pop!_OS_loginwallpaper
+# Pop!_OS_loginwallpaper for 20.04 & 20.10
 
 [Original Author](https://github.com/PRATAP-KUMAR/focalgdm3#readme)
 
