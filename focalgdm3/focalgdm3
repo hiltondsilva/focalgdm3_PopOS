@@ -2,13 +2,13 @@
 
 codename=$(cat /etc/os-release | grep UBUNTU_CODENAME | cut -d = -f 2)
 
-if [ "$codename" == "focal" ]
+if [ "$codename" == "focal" ] || [ "$codename" == "groovy" ]
 then
 source="/usr/share/gnome-shell/theme/Pop/gnome-shell-theme.gresource"
 else
 echo "
 ----------------------------------------
-Sorry, Script is only for Ubuntu 20.04
+Sorry, Script is only for Pop!_OS 20.xx
 Exiting...
 ----------------------------------------"
 exit 1
