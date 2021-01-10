@@ -10,3 +10,7 @@ select "1" for image
 
 enter and reboot.
 
+## For Pop!_OS release 20.10
+
+sudo ./focalgdm3_20.10 --set
+
